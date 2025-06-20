@@ -1,5 +1,5 @@
 # TPI_Programación_Avanzada
-Repositorio para la entrega del Trabajo Practico Integrador de Programación Avanzada.
+Repositorio para la entrega del Trabajo Practico Integrador de Programación Avanzada
 
 # Integrantes:
 Sanchez Bajo Mauro (DNI: 22.864.483)
@@ -11,12 +11,12 @@ Vera Espinola Julieta (DNI: 39.061.579)
 # Carrera: 
 Licenciatura en Ciencia de Datos
 
-#Materia: 
+# Materia: 
 Programación Avanzada (189)
 
-#Docente: 
+# Docente: 
 Piriz Gianluca
 
-#Fecha: 
+# Fecha: 
 20/06/2025
 
