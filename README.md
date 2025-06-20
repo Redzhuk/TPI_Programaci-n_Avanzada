@@ -1,22 +1,21 @@
 # TPI_Programación_Avanzada
 Repositorio para la entrega del Trabajo Practico Integrador de Programación Avanzada
 
-# Integrantes:
+## Integrantes:
 Sanchez Bajo Mauro (DNI: 22.864.483)
 
 Sosa Redchuk Leandro Exequiel (DNI: 37.759.372)
 
 Vera Espinola Julieta (DNI: 39.061.579)
 
-# Carrera: 
+## Carrera: 
 Licenciatura en Ciencia de Datos
 
-# Materia: 
+## Materia: 
 Programación Avanzada (189)
 
-# Docente: 
+## Docente: 
 Piriz Gianluca
 
-# Fecha: 
+## Fecha: 
 20/06/2025
-
